@@ -1,18 +1,24 @@
-<div id="header" align="center">
+<h1 align="center">   Yevhenii Nemchenko</h1>   <div id="header" align="center">
   <img src="https://i.gifer.com/origin/4c/4c7dc3d8a6dd24c8169b85d7e0fff5fd_w200.gif" width="300"/>
 </div>
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+  <a href="https://twitch.tv/doomwalkergame">
+    <img src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://youtube.com/d69m">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://instagram.com/doom.inst105">
+    <img src="https://img.shields.io/badge/instagram-fuchsia?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
+  <a href="https://t.me/doominst">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+  </a>
+  
+  
 </div>
-- ### :hammer_and_wrench: Languages and Tools :
+<h2 width="40" height="40">Languages and Tools:</h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -24,15 +30,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma"  alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="android"  alt="android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" title="androidstudio"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  
-- ### Socials:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</div>
+ 
 
-  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/doominst)
-  [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/doom.inst105)
-  [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/d69m)
-  [![Twitch](https://img.shields.io/badge/-Twitch-090909?style=for-the-badge&logo=twitch&logoColor=B4068E)](https://www.twitch.tv/doomwalkergame)
-  
-  
+
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOOM097&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doom097&theme=github_dark)
+
 
 
