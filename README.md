@@ -28,8 +28,6 @@
   <img src="https://i.pinimg.com/originals/0a/28/37/0a283783146fdc9cfecb98c0d4756757.png" title="xml"  alt="xml" width="40" height="40"/>&nbsp;
   <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7914417/github-icon-md.png" title="github"  alt="github" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/atlassian_logo_icon_147317.png" title="atlassian"  alt="atlassian" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma"  alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" title="photoshop"  alt="photoshop" width="40" height="40"/>&nbsp;
