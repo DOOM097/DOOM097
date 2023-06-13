@@ -1,6 +1,10 @@
 <h1 align="center">   Yevhenii Nemchenko</h1>   <div id="header" align="center">
-  <img src="https://media.tenor.com/zAiEJ_4t5Y4AAAAi/minecraft-steve.gif" width="100"/>
-
+ <div>
+  <img src="https://media.tenor.com/wzx-__J8hr4AAAAj/minecraft-arara.gif" width="120"/>
+  <img src="https://media.tenor.com/6_-TOVInJfgAAAAi/passaros.gif" width="120"/>
+  <img src="https://media.tenor.com/TCPH2lqNOlIAAAAi/jeremy.gif" width="120"/>
+  <img src="https://media.tenor.com/uHlkZ5Z-lq0AAAAi/minecraft-blue.gif" width="120"/>
+ </div>
 <div id="badges">
 
   <a href="https://twitch.tv/doomwalkergame">
