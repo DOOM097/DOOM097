@@ -1,5 +1,5 @@
 <h1 align="center">   Yevhenii Nemchenko</h1>   <div id="header" align="center">
-  <img src="https://i.gifer.com/origin/4c/4c7dc3d8a6dd24c8169b85d7e0fff5fd_w200.gif" width="200"/>
+  <img src="https://media.tenor.com/zAiEJ_4t5Y4AAAAi/minecraft-steve.gif" width="100"/>
 
 <div id="badges">
 
