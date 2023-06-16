@@ -1,5 +1,6 @@
 <h1 align="center">   Yevhenii Nemchenko</h1>   <div id="header" align="center">
 
+
  
  <div>
   <img src="https://media.tenor.com/wzx-__J8hr4AAAAj/minecraft-arara.gif" width="120"/>
@@ -7,6 +8,7 @@
   <img src="https://media.tenor.com/TCPH2lqNOlIAAAAi/jeremy.gif" width="120"/>
   <img src="https://media.tenor.com/uHlkZ5Z-lq0AAAAi/minecraft-blue.gif" width="120"/>
  </div>
+
 
  
 <div id="badges">
@@ -24,10 +26,11 @@
     </a>
 </div>
 
+
+
+
  
 <h2 width="40" height="40">Languages and Tools:</h2>
-
-
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
@@ -43,11 +46,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android"  alt="Android" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" title="AndroidStudio"  alt="AndroidStudio" width="40" height="40"/>&nbsp;
   </div>
+
+
+
   
 <div>
     <h2 width="40" height="40">Statistics:</h2>
 </div>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOOM097&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doom097&theme=github_dark)
 
