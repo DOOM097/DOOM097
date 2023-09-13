@@ -49,9 +49,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" title="AndroidStudio"  alt="AndroidStudio" width="40" height="40"/>&nbsp;
 
   </div>
-
-
-
   
 <div>
     <h2 width="40" height="40">Statistics:</h2>
