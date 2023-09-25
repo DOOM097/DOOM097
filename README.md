@@ -28,7 +28,6 @@
 
 
 
-
  
 <h2 width="40" height="40">Languages and Tools:</h2>
 <div>
