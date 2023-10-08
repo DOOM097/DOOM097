@@ -3,8 +3,10 @@
 
  
  <div>
-  <img src="https://media.tenor.com/1YYD7xxoQSoAAAAC/avatar-the-last-airbender.gif" width="900" height="671"/>
-
+  <img src="https://media.tenor.com/wzx-__J8hr4AAAAj/minecraft-arara.gif" width="120"/>
+  <img src="https://media.tenor.com/6_-TOVInJfgAAAAi/passaros.gif" width="120"/>
+  <img src="https://media.tenor.com/TCPH2lqNOlIAAAAi/jeremy.gif" width="120"/>
+  <img src="https://media.tenor.com/uHlkZ5Z-lq0AAAAi/minecraft-blue.gif" width="120"/>
  </div>
 
 
@@ -53,5 +55,3 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOOM097&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DOOM097&theme=github_dark)
-
-
