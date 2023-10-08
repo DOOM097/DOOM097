@@ -3,7 +3,7 @@
 
  
  <div>
-  <img src="https://media.tenor.com/hDTZz1eMxS0AAAAd/legend-of-korra-earth-bender.gif" width="800" height="300"/>
+  <img src="https://media.tenor.com/fnI60HnM3voAAAAC/avatar-the-last-airbender-aang.gif" width="800" height="300"/>
 
  </div>
 
