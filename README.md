@@ -8,7 +8,6 @@
   <img src="https://media.tenor.com/TCPH2lqNOlIAAAAi/jeremy.gif" width="120"/>
   <img src="https://media.tenor.com/uHlkZ5Z-lq0AAAAi/minecraft-blue.gif" width="120"/>
  </div>
-
  
 <div id="badges">
     <a href="https://twitch.tv/doomwalkergame">
